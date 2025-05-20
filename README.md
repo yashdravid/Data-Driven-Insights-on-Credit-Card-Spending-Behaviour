@@ -24,9 +24,9 @@ This project involves an end-to-end analysis of credit card data to uncover patt
 ## 📁 Files Included
 
 - `Credit_card_analysis.ipynb` – Python notebook with full EDA and testing
-- `CC Visualization.pbix` – Power BI dashboard file
+- `PowerBI_report_raw.pbix` – Power BI dashboard file
 - `Credit_Card_Analysis Report.pdf` – Data visualization report
-- `credit_card_data_insights.pdf` – Data visualization report
+- `Data_visualization_report.pdf` – Data visualization report
 
 ## 📂 Dataset
 You can access the dataset here : https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
