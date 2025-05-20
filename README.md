@@ -28,6 +28,9 @@ This project involves an end-to-end analysis of credit card data to uncover patt
 - `Credit_Card_Analysis Report.pdf` – Data visualization report
 - `credit_card_data_insights.pdf` – Data visualization report
 
+## 📂 Dataset
+You can access the dataset here : https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
+
 ## 👤 Author
 
 Yash Dravid (www.linkedin.com/in/yash-dravid)
